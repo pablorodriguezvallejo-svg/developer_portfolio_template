@@ -42,3 +42,5 @@ function ajustarUltimaTarjeta() {
 ajustarUltimaTarjeta();
 
 // Opcional: si agregas tarjetas dinámicamente, llama a ajustarUltimaTarjeta() otra vez
+
+

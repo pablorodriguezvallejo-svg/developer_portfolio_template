@@ -103,7 +103,7 @@ header {
  
 
 body {
-  background: linear-gradient(270deg, #222222, #4e2f00);
+  background: linear-gradient(270deg, rgb(34, 34, 34), rgb(78, 47, 0));
   background-size: 800% 800%;
   animation: gradientMove 10s ease infinite;
 }
